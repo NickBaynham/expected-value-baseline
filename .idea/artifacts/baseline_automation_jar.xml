@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="baseline-automation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/baseline_automation_jar</output-path>
+    <root id="archive" name="baseline-automation.jar">
+      <element id="module-output" name="baseline-automation" />
+    </root>
+  </artifact>
+</component>
